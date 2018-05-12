@@ -24,6 +24,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Variously attributed to Bond or Defoe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37047#The-History-of-the-Life-and-Adventures-of-Mr.-Duncan-CampellStranger-s-name-at-first-Sight-
 gutenberg_issued: '2011-08-12'
 gutenberg_type: Text
 identifiers:
